@@ -1,4 +1,4 @@
-package com.company;
+
 import java.util.Scanner;
 //--------------------------------------- ATM Class-----------------------------------
 public class ATM {
